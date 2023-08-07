@@ -1,0 +1,152 @@
+(stem) 2023-07-04 15:31:47,768 DEBUG [log.py, log] - System call: /home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/tor --version (runtime: 0.26)
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,779 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.778 [notice] Tor 0.4.7.13 (git-7c1601fb6edd780f) running on Linux with Libevent 2.1.12-stable, OpenSSL 1.1.1t, Zlib 1.2.11, Liblzma N/A, Libzstd N/A and Glibc 2.35 as libc.
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,779 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.778 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,780 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.780 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,781 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.781 [notice] Opening Socks listener on 127.0.0.1:39373
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,781 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.781 [notice] Opened Socks listener connection (ready) on 127.0.0.1:39373
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,781 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.781 [notice] Opening Control listener on 127.0.0.1:48177
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,781 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.781 [notice] Opened Control listener connection (ready) on 127.0.0.1:48177
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,799 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.000 [notice] Bootstrapped 0% (starting): Starting
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,800 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.000 [notice] Starting with guard context "bridges"
+(Tor - PROCESS - 2) 2023-07-04 15:31:47,800 INFO [tor_parser.py, log_tor] - Jul 04 15:31:47.000 [notice] Delaying directory fetches: No running bridges
+(Tor - PROCESS - 2) 2023-07-04 15:31:48,799 INFO [tor_parser.py, log_tor] - Jul 04 15:31:48.000 [notice] Bootstrapped 1% (conn_pt): Connecting to pluggable transport
+(Tor - PROCESS - 2) 2023-07-04 15:31:48,800 INFO [tor_parser.py, log_tor] - Jul 04 15:31:48.000 [notice] Bootstrapped 2% (conn_done_pt): Connected to pluggable transport
+(Tor - PROCESS - 2) 2023-07-04 15:31:48,802 INFO [tor_parser.py, log_tor] - Jul 04 15:31:48.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+(Tor - PROCESS - 2) 2023-07-04 15:31:48,994 INFO [tor_parser.py, log_tor] - Jul 04 15:31:48.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": offer created
+(Tor - PROCESS - 2) 2023-07-04 15:31:49,375 INFO [tor_parser.py, log_tor] - Jul 04 15:31:49.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": broker rendezvous peer received
+(Tor - PROCESS - 2) 2023-07-04 15:31:49,899 INFO [tor_parser.py, log_tor] - Jul 04 15:31:49.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": connected
+(Tor - PROCESS - 2) 2023-07-04 15:31:50,376 INFO [tor_parser.py, log_tor] - Jul 04 15:31:50.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+(Tor - PROCESS - 2) 2023-07-04 15:31:50,575 INFO [tor_parser.py, log_tor] - Jul 04 15:31:50.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+(Tor - PROCESS - 2) 2023-07-04 15:31:50,575 INFO [tor_parser.py, log_tor] - Jul 04 15:31:50.000 [notice] Bootstrapped 20% (onehop_create): Establishing an encrypted directory connection
+(Tor - PROCESS - 2) 2023-07-04 15:31:50,781 INFO [tor_parser.py, log_tor] - Jul 04 15:31:50.000 [notice] Bootstrapped 25% (requesting_status): Asking for networkstatus consensus
+(Tor - PROCESS - 2) 2023-07-04 15:31:51,040 INFO [tor_parser.py, log_tor] - Jul 04 15:31:51.000 [notice] new bridge descriptor 'crusty8' (fresh): $8838024498816A039FCBBAB14E6F40A0843051FA~crusty8 [tO9nYvNCAdAh9lPoEEv2pZ9BJq+YzmPAMY6pxoFrLuk] at 192.0.2.4
+(Tor - PROCESS - 2) 2023-07-04 15:31:52,005 INFO [tor_parser.py, log_tor] - Jul 04 15:31:52.000 [notice] Bootstrapped 30% (loading_status): Loading networkstatus consensus
+(Tor - PROCESS - 2) 2023-07-04 15:31:56,194 INFO [tor_parser.py, log_tor] - Jul 04 15:31:56.000 [notice] I learned some more directory information, but not enough to build a circuit: We have no usable consensus.
+(Tor - PROCESS - 2) 2023-07-04 15:31:56,423 INFO [tor_parser.py, log_tor] - Jul 04 15:31:56.000 [notice] Bootstrapped 40% (loading_keys): Loading authority key certs
+(Tor - PROCESS - 2) 2023-07-04 15:31:56,536 INFO [tor_parser.py, log_tor] - Jul 04 15:31:56.000 [notice] The current consensus has no exit nodes. Tor can only build internal paths, such as paths to onion services.
+(Tor - PROCESS - 2) 2023-07-04 15:31:56,537 INFO [tor_parser.py, log_tor] - Jul 04 15:31:56.000 [notice] Bootstrapped 45% (requesting_descriptors): Asking for relay descriptors
+(Tor - PROCESS - 2) 2023-07-04 15:31:56,538 INFO [tor_parser.py, log_tor] - Jul 04 15:31:56.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 0/6896, and can only build 0% of likely paths. (We have 100% of guards bw, 0% of midpoint bw, and 0% of end bw (no exits in consensus, using mid) = 0% of path bw.)
+(Tor - PROCESS - 2) 2023-07-04 15:31:56,846 INFO [tor_parser.py, log_tor] - Jul 04 15:31:56.000 [notice] Bootstrapped 50% (loading_descriptors): Loading relay descriptors
+(Tor - PROCESS - 2) 2023-07-04 15:32:30,727 INFO [tor_parser.py, log_tor] - Jul 04 15:32:30.000 [notice] The current consensus contains exit nodes. Tor can build exit and internal paths.
+(Tor - PROCESS - 2) 2023-07-04 15:32:50,567 INFO [tor_parser.py, log_tor] - Jul 04 15:32:50.000 [notice] Bootstrapped 57% (loading_descriptors): Loading relay descriptors
+(Tor - PROCESS - 2) 2023-07-04 15:32:50,633 INFO [tor_parser.py, log_tor] - Jul 04 15:32:50.000 [notice] Bootstrapped 62% (loading_descriptors): Loading relay descriptors
+(Tor - PROCESS - 2) 2023-07-04 15:32:52,055 INFO [tor_parser.py, log_tor] - Jul 04 15:32:52.000 [notice] Bootstrapped 69% (loading_descriptors): Loading relay descriptors
+(Tor - PROCESS - 2) 2023-07-04 15:32:52,091 INFO [tor_parser.py, log_tor] - Jul 04 15:32:52.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+(Tor - PROCESS - 2) 2023-07-04 15:32:52,877 INFO [tor_parser.py, log_tor] - Jul 04 15:32:52.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+(Tor - PROCESS - 2) 2023-07-04 15:32:52,877 INFO [tor_parser.py, log_tor] - Jul 04 15:32:52.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+(Tor - PROCESS - 2) 2023-07-04 15:32:53,960 INFO [tor_parser.py, log_tor] - Jul 04 15:32:53.000 [notice] Bootstrapped 100% (done): Done
+(stem) 2023-07-04 15:32:53,991 DEBUG [log.py, log] - GETCONF __owningcontrollerprocess (runtime: 0.0007)
+(PP_PROCESS - 2) 2023-07-04 15:32:53,994 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:33:04,002 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:33:14,013 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:33:24,021 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:33:34,032 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:33:44,041 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:33:54,052 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:34:04,063 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:34:14,074 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:34:24,082 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:34:34,089 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:34:44,098 INFO [base_parser.py, subscribe_queue] - queue is empty, sleep 10 sec
+(PP_PROCESS - 2) 2023-07-04 15:34:54,106 INFO [base_parser.py, subscribe_queue] - queue is not empty, objects in queue 25
+(Tor - PROCESS - 2) 2023-07-04 15:34:54,107 INFO [tor_parser.py, get_browser] - TRY Start Browser
+(Tor - PROCESS - 2) 2023-07-04 15:34:59,551 INFO [tor_parser.py, get_browser] - SUCCESS START Browser
+(Tor - PROCESS - 2) 2023-07-04 15:34:59,551 INFO [tor_parser.py, get_browser] - TRY Set page load timeout
+(Tor - PROCESS - 2) 2023-07-04 15:34:59,556 INFO [tor_parser.py, get_browser] - SUCCESS SET page load timeout
+(PP_PROCESS - 2) 2023-07-04 15:34:59,557 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_26m_1219et._3458364446?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:35:08,029 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:35:08,070 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(PP_PROCESS - 2) 2023-07-04 15:35:15,461 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_26m_1219et._3458364446?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:35:17,529 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:35:17,558 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(PP_PROCESS - 2) 2023-07-04 15:35:24,953 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_26m_1219et._3458364446?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:35:27,421 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:35:27,496 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(PP_PROCESS - 2) 2023-07-04 15:35:34,897 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_26m_1219et._3458364446?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:35:37,985 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:35:38,030 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(PP_PROCESS - 2) 2023-07-04 15:35:45,435 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_26m_1219et._3458364446?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(stem) 2023-07-04 15:35:47,139 DEBUG [log.py, log] - System call: /home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/tor --version (runtime: 0.06)
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,151 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.150 [notice] Tor 0.4.7.13 (git-7c1601fb6edd780f) running on Linux with Libevent 2.1.12-stable, OpenSSL 1.1.1t, Zlib 1.2.11, Liblzma N/A, Libzstd N/A and Glibc 2.35 as libc.
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,151 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.150 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,152 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.152 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,153 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.153 [notice] Opening Socks listener on 127.0.0.1:50593
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,154 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.153 [notice] Opened Socks listener connection (ready) on 127.0.0.1:50593
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,154 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.153 [notice] Opening Control listener on 127.0.0.1:59141
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,155 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.153 [notice] Opened Control listener connection (ready) on 127.0.0.1:59141
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,162 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.000 [notice] Bootstrapped 0% (starting): Starting
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,162 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.000 [notice] Starting with guard context "bridges"
+(Tor - PROCESS - 4) 2023-07-04 15:35:47,162 INFO [tor_parser.py, log_tor] - Jul 04 15:35:47.000 [notice] Delaying directory fetches: No running bridges
+(PP_PROCESS - 2) 2023-07-04 15:35:47,614 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:35:47,648 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(Tor - PROCESS - 4) 2023-07-04 15:35:48,166 INFO [tor_parser.py, log_tor] - Jul 04 15:35:48.000 [notice] Bootstrapped 1% (conn_pt): Connecting to pluggable transport
+(Tor - PROCESS - 4) 2023-07-04 15:35:48,166 INFO [tor_parser.py, log_tor] - Jul 04 15:35:48.000 [notice] Bootstrapped 2% (conn_done_pt): Connected to pluggable transport
+(Tor - PROCESS - 4) 2023-07-04 15:35:48,168 INFO [tor_parser.py, log_tor] - Jul 04 15:35:48.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+(Tor - PROCESS - 4) 2023-07-04 15:35:48,873 INFO [tor_parser.py, log_tor] - Jul 04 15:35:48.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": offer created
+(PP_PROCESS - 2) 2023-07-04 15:35:55,150 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_26m_1219et._3458364446?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:35:58,406 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:35:58,444 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(Tor - PROCESS - 4) 2023-07-04 15:35:59,230 INFO [tor_parser.py, log_tor] - Jul 04 15:35:59.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": broker failure timed out waiting for answer!
+(Tor - PROCESS - 4) 2023-07-04 15:35:59,608 INFO [tor_parser.py, log_tor] - Jul 04 15:35:59.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": offer created
+(Tor - PROCESS - 4) 2023-07-04 15:36:04,841 INFO [tor_parser.py, log_tor] - Jul 04 15:36:04.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": broker rendezvous peer received
+(PP_PROCESS - 2) 2023-07-04 15:36:05,950 WARNING [base_parser.py, subscribe_queue] - Base exception
+Traceback (most recent call last):
+  File "/home/teekzaur/progects/avito_parser_refactoring/src/base_parser.py", line 42, in subscribe_queue
+    self.action()
+  File "/home/teekzaur/progects/avito_parser_refactoring/src/phone_parser.py", line 23, in action
+    complete_advert = self.get_complete_model(model)
+  File "/home/teekzaur/progects/avito_parser_refactoring/src/phone_parser.py", line 51, in get_complete_model
+    raise AvitoInterruptLimit("Trying to get a phone, limit exceeded")
+models.AvitoInterruptLimit: Trying to get a phone, limit exceeded
+(Tor - PROCESS - 2) 2023-07-04 15:36:05,953 INFO [tor_parser.py, quit_browser] - TRY Quit Browser
+(Tor - PROCESS - 2) 2023-07-04 15:36:06,689 INFO [tor_parser.py, quit_browser] - SUCCESS QUIT Browser
+(Tor - PROCESS - 2) 2023-07-04 15:36:06,690 INFO [tor_parser.py, change_ip] - TRY Change IP
+(Tor - PROCESS - 2) 2023-07-04 15:36:06,708 INFO [tor_parser.py, change_ip] - SUCCESS CHANGE IP
+(PP_PROCESS - 2) 2023-07-04 15:36:06,710 INFO [base_parser.py, subscribe_queue] - queue is not empty, objects in queue 72
+(Tor - PROCESS - 2) 2023-07-04 15:36:06,710 INFO [tor_parser.py, get_browser] - TRY Start Browser
+(Tor - PROCESS - 2) 2023-07-04 15:36:11,101 INFO [tor_parser.py, get_browser] - SUCCESS START Browser
+(Tor - PROCESS - 2) 2023-07-04 15:36:11,101 INFO [tor_parser.py, get_browser] - TRY Set page load timeout
+(Tor - PROCESS - 2) 2023-07-04 15:36:11,107 INFO [tor_parser.py, get_browser] - SUCCESS SET page load timeout
+(PP_PROCESS - 2) 2023-07-04 15:36:11,107 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/1-k._kvartira_374m_515et._2879034462?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(Tor - PROCESS - 4) 2023-07-04 15:36:14,842 INFO [tor_parser.py, log_tor] - Jul 04 15:36:14.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": trying a new proxy: timeout waiting for DataChannel.OnOpen
+(Tor - PROCESS - 4) 2023-07-04 15:36:15,906 INFO [tor_parser.py, log_tor] - Jul 04 15:36:15.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": offer created
+(Tor - PROCESS - 4) 2023-07-04 15:36:16,174 INFO [tor_parser.py, log_tor] - Jul 04 15:36:16.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": broker rendezvous peer received
+(Tor - PROCESS - 4) 2023-07-04 15:36:26,175 INFO [tor_parser.py, log_tor] - Jul 04 15:36:26.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": trying a new proxy: timeout waiting for DataChannel.OnOpen
+(Tor - PROCESS - 4) 2023-07-04 15:36:26,517 INFO [tor_parser.py, log_tor] - Jul 04 15:36:26.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": offer created
+(Tor - PROCESS - 4) 2023-07-04 15:36:26,680 INFO [tor_parser.py, log_tor] - Jul 04 15:36:26.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": broker rendezvous peer received
+(Tor - PROCESS - 4) 2023-07-04 15:36:27,842 INFO [tor_parser.py, log_tor] - Jul 04 15:36:27.000 [notice] Managed proxy "/home/teekzaur/progects/avito_parser_refactoring/tor-browser/tor-browser/Browser/TorBrowser/Tor/PluggableTransports/snowflake-client": connected
+(Tor - PROCESS - 4) 2023-07-04 15:36:28,344 INFO [tor_parser.py, log_tor] - Jul 04 15:36:28.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+(Tor - PROCESS - 4) 2023-07-04 15:36:28,581 INFO [tor_parser.py, log_tor] - Jul 04 15:36:28.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+(Tor - PROCESS - 4) 2023-07-04 15:36:28,581 INFO [tor_parser.py, log_tor] - Jul 04 15:36:28.000 [notice] Bootstrapped 20% (onehop_create): Establishing an encrypted directory connection
+(PP_PROCESS - 2) 2023-07-04 15:36:28,615 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:36:28,655 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(Tor - PROCESS - 4) 2023-07-04 15:36:28,812 INFO [tor_parser.py, log_tor] - Jul 04 15:36:28.000 [notice] Bootstrapped 25% (requesting_status): Asking for networkstatus consensus
+(Tor - PROCESS - 4) 2023-07-04 15:36:29,048 INFO [tor_parser.py, log_tor] - Jul 04 15:36:29.000 [notice] new bridge descriptor 'crusty12' (fresh): $8838024498816A039FCBBAB14E6F40A0843051FA~crusty12 [tO9nYvNCAdAh9lPoEEv2pZ9BJq+YzmPAMY6pxoFrLuk] at 192.0.2.4
+(Tor - PROCESS - 4) 2023-07-04 15:36:29,449 INFO [tor_parser.py, log_tor] - Jul 04 15:36:29.000 [notice] Bootstrapped 30% (loading_status): Loading networkstatus consensus
+(PP_PROCESS - 2) 2023-07-04 15:36:36,010 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/1-k._kvartira_374m_515et._2879034462?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:36:41,392 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:36:41,422 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(Tor - PROCESS - 4) 2023-07-04 15:36:44,158 INFO [tor_parser.py, log_tor] - Jul 04 15:36:44.000 [notice] I learned some more directory information, but not enough to build a circuit: We have no usable consensus.
+(Tor - PROCESS - 4) 2023-07-04 15:36:44,530 INFO [tor_parser.py, log_tor] - Jul 04 15:36:44.000 [notice] Bootstrapped 40% (loading_keys): Loading authority key certs
+(Tor - PROCESS - 4) 2023-07-04 15:36:44,689 INFO [tor_parser.py, log_tor] - Jul 04 15:36:44.000 [notice] The current consensus has no exit nodes. Tor can only build internal paths, such as paths to onion services.
+(Tor - PROCESS - 4) 2023-07-04 15:36:44,691 INFO [tor_parser.py, log_tor] - Jul 04 15:36:44.000 [notice] Bootstrapped 45% (requesting_descriptors): Asking for relay descriptors
+(Tor - PROCESS - 4) 2023-07-04 15:36:44,691 INFO [tor_parser.py, log_tor] - Jul 04 15:36:44.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 0/6897, and can only build 0% of likely paths. (We have 100% of guards bw, 0% of midpoint bw, and 0% of end bw (no exits in consensus, using mid) = 0% of path bw.)
+(Tor - PROCESS - 4) 2023-07-04 15:36:45,056 INFO [tor_parser.py, log_tor] - Jul 04 15:36:45.000 [notice] Bootstrapped 50% (loading_descriptors): Loading relay descriptors
+(PP_PROCESS - 2) 2023-07-04 15:36:45,823 INFO [phone_parser.py, get_complete_model] - SEND ADVERT
+(PP_PROCESS - 2) 2023-07-04 15:36:45,826 INFO [base_parser.py, subscribe_queue] - queue is not empty, objects in queue 71
+(PP_PROCESS - 2) 2023-07-04 15:36:45,826 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/2-k._kvartira_662m_1416et._2987097655?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:36:57,640 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:36:57,669 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(PP_PROCESS - 2) 2023-07-04 15:37:04,233 INFO [phone_parser.py, get_complete_model] - SEND ADVERT
+(PP_PROCESS - 2) 2023-07-04 15:37:04,234 INFO [base_parser.py, subscribe_queue] - queue is not empty, objects in queue 70
+(PP_PROCESS - 2) 2023-07-04 15:37:04,235 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_21m_820et._2963308021?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:37:12,897 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:37:12,966 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(PP_PROCESS - 2) 2023-07-04 15:37:20,355 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/kvartira-studiya_21m_820et._2963308021?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:37:24,915 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:37:24,967 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container
+(PP_PROCESS - 2) 2023-07-04 15:37:29,338 INFO [phone_parser.py, get_complete_model] - SEND ADVERT
+(PP_PROCESS - 2) 2023-07-04 15:37:29,338 INFO [base_parser.py, subscribe_queue] - queue is not empty, objects in queue 69
+(PP_PROCESS - 2) 2023-07-04 15:37:29,339 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Try Get https://m.avito.ru/murino/kvartiry/1-k._kvartira_42m_720et._3059474122?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFIyrchJNzQpzc5Jzy7IqMpJSzIxMjIoLDGqNDRNLaswU7KuBQQAAP__xmpb5jUAAAA
+(PP_PROCESS - 2) 2023-07-04 15:37:33,610 INFO [base_parser.py, getUrl_or_raiseAvitoEx] - Get is complete
+(PP_PROCESS - 2) 2023-07-04 15:37:33,648 WARNING [base_parser.py, getUrl_or_raiseAvitoEx] - No search container

@@ -1,0 +1,38 @@
+(SENDER) 2023-07-04 15:31:45,638 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:31:55,645 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:32:05,653 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:32:15,661 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:32:25,669 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:32:35,677 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:32:45,683 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:32:55,685 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:33:05,692 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:33:15,703 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:33:25,713 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:33:35,721 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:33:45,732 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:33:55,737 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:34:05,745 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:34:15,756 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:34:25,767 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:34:35,773 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:34:45,782 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:34:55,790 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:35:05,797 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:35:15,817 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:35:25,825 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:35:35,835 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:35:45,846 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:35:55,853 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:36:05,860 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:36:15,869 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:36:25,877 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:36:35,885 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:36:45,895 INFO [sender.py, start] - queue is not empty, objects in queue 1
+(SENDER) 2023-07-04 15:36:47,998 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:36:58,007 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:37:08,017 INFO [sender.py, start] - queue is not empty, objects in queue 1
+(SENDER) 2023-07-04 15:37:10,033 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:37:20,044 INFO [sender.py, start] - queue is empty, sleep 10 sec
+(SENDER) 2023-07-04 15:37:30,053 INFO [sender.py, start] - queue is not empty, objects in queue 1
+(SENDER) 2023-07-04 15:37:32,220 INFO [sender.py, start] - queue is empty, sleep 10 sec
